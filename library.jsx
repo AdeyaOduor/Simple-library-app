@@ -12,7 +12,7 @@ class LibraryApp extends React.Component {
           <h3>My Library</h3>
           <LibraryApp items={this.state.items} />
           <form onSubmit={this.handleSubmit}>
-            <label htmlFor="new-todo">
+            <label htmlFor="new-title">
               Add a book!
             </label>
             <input
