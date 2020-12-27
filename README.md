@@ -1,2 +1,2 @@
 # Simple-library-app
-A libary with local storage
+A library with local storage, accompanied by a react js to create interactive UIs. 
